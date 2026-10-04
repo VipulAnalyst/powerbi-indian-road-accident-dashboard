@@ -4,7 +4,7 @@ A Power BI dashboard project focused on analyzing road-accident patterns across 
 
 ## Dashboard Preview
 
-![Indian Road Accident Dashboard](dashboard-preview.png)
+![Indian Road Accident Dashboard](Screenshot%20(34).png)
 
 ## Project Objective
 
@@ -37,7 +37,7 @@ The goal of this project is to turn road-accident data into a clear, interactive
 | File | Description |
 |---|---|
 | `Indian_Road_Accident_Dashboard.pbix` | Main Power BI dashboard file |
-| `dashboard-preview.png` | Dashboard preview |
+| `Screenshot (34).png` | Dashboard preview |
 | `README.md` | Project documentation |
 
 ## How to View
